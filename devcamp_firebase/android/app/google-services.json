@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870791278185",
+    "project_id": "devcamp-firebase-126d1",
+    "storage_bucket": "devcamp-firebase-126d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870791278185:android:81ed794e9f8540aded7cf8",
+        "android_client_info": {
+          "package_name": "com.example.devcamp_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmqqPlUDuYcXPyockRQ6SR_cgX9yGAA5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
